@@ -39,19 +39,7 @@ Our team includes frontend devs, backend engineers, and database architects coll
 
 ---
 
-## 📂 Project Repositories
 
-Some of our ongoing and past repositories:
-
-- `skill-swap-frontend` — React/Vite client for skill-sharing platform
-- `skill-swap-backend` — Node/Express backend with JWT authentication
-- `real-time-gas-tracker` — Cross-chain Ethereum gas monitoring dashboard
-- `personal-portfolio` — Fully dynamic portfolio with admin panel
-- `core-components-lib` — Custom-built reusable UI library (in progress)
-
-> All projects follow a modular file structure, GitHub Actions-based CI/CD, and clean commit standards.
-
----
 
 ## 💡 Want to Collaborate?
 
